@@ -1,16 +1,16 @@
-# Hi there, I'm Jo! 👋
+# Hi there, I'm Kei! 👋
 
-### 👨‍💻 Software Engineering Student (RPL)
+### 👨‍💻 Software Engineering Student In SMK IBNU SINA BATAM (RPL)
 I'm a passionate developer focused on building functional applications and exploring the intersection of AI and technology.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** VB.NET, C#, SQL (MySQL), Java
+- **Languages:** VB.NET, C#, SQL (MySQL), Java, CSS, HTML, JS
 - **Database:** MySQL, MariaDB
-- **Tools:** Visual Studio, Git, GitHub
-- **Specialty:** Desktop Application Development & Database Management
+- **Tools:** Visual Studio, Git, GitHub, After Effects, Figma
+- **Specialty:** Desktop Application Development, Database Management, Web Developer & Designer
 
 ---
 
@@ -24,8 +24,8 @@ I'm a passionate developer focused on building functional applications and explo
 
 ### 📊 GitHub Stats
 
-![Jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical)
+![Kei GitHub stats](https://github-readme-stats.vercel.app/api?Kei=Z-dev-collab&show_icons=true&theme=radical)
+![Top Stats](https://github-readme-stats.vercel.app/api/top-langs/?Kei=Z-dev-collab&layout=compact&theme=radical)
 
 ---
 
@@ -40,8 +40,8 @@ I'm a passionate developer focused on building functional applications and explo
 
 ### 📫 Connect with me
 
-- **GitHub:** [github.com/USERNAME_KAMU](https://github.com/USERNAME_KAMU)
-- **Instagram:** [@username_kamu](https://instagram.com/username_kamu)
+- **GitHub:** [github.com/Z-dev-collab](https://github.com/Z-dev-collab)
+- **Instagram:** [@zhryadii](https://www.instagram.com/zhryadii/)
 
 ---
 
