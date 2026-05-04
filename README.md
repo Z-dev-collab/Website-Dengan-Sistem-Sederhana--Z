@@ -34,7 +34,7 @@ I'm a passionate developer focused on building functional applications and explo
 - 🎮 **Gaming:** Mobile Legends enthusiast & Simulation game lover.
 - 📱 **Tech Savvy:** Keeping an eye on the latest smartphone and PC hardware trends.
 - 🇮🇩 **Proudly Indonesian:** Interested in regional cultures and Indonesian geography.
-- 📍 **Based in:** Batam, Indonesia.
+- 📍 **Based in:** Kepulaun Riau, Batam, Indonesia.(SMK IBNU SINA BATAM)
 
 ---
 
