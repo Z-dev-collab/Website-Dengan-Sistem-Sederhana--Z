@@ -1,4 +1,4 @@
-# Hi there, I'm Kei! 👋
+# Hi Everyone, I'm Kei! 👋
 
 ### 👨‍💻 Software Engineering Student In SMK IBNU SINA BATAM (RPL)
 I'm a passionate developer focused on building functional applications and exploring the intersection of AI and technology.
