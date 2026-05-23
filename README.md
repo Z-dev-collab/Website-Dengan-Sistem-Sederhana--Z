@@ -1,47 +1,86 @@
 # Hi Everyone, I'm Kei! 👋
 
-### 👨‍💻 Software Engineering Student In SMK IBNU SINA BATAM (RPL)
-I'm a passionate developer focused on building functional applications and exploring the intersection of AI and technology.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Z-dev-collab&label=Profile%20views&color=0e75b6&style=flat" alt="Z-dev-collab" />
+</p>
+
+### 👨‍💻 Software Engineering Student at SMK Ibnu Sina Batam (RPL)
+I'm a passionate developer focused on building functional applications, managing databases, and exploring the intersection of AI and technology.
+
+---
+
+### 🎓 Education & Certifications
+
+*   **SMK Ibnu Sina Batam** - Rekayasa Perangkat Lunak (Software Engineering)
+*   **Osedu Batam** - Non-Formal IT & Tech Training
+    *   📜 *Certified Workshop Graduate* - Memiliki sertifikat kompetensi resmi hasil pelatihan intensif di bidang teknologi dan pengembangan web/aplikasi.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** VB.NET, C#, SQL (MySQL), Java, CSS, HTML, JS
-- **Database:** MySQL, MariaDB
-- **Tools:** Visual Studio, Git, GitHub, After Effects, Figma
-- **Specialty:** Desktop Application Development, Database Management, Web Developer & Designer
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,java" width="48" height="48" alt="Languages" />
+      <br>Language
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html,css,js" width="48" height="48" alt="Web" />
+      <br>Front-End
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql,mariadb" width="48" height="48" alt="Database" />
+      <br>Database
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=visualstudio,figma,ae" width="48" height="48" alt="Tools" />
+      <br>Tools
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git,github" width="48" height="48" alt="Version Control" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Current Projects
 
-- **Shop Management App:** A robust transaction system built with **VB.NET** and **MySQL**.
-- **AI Exploration:** Crafting high-detail prompts for realistic AI image generation.
-- **Hardware & Simulation:** Constant learning about PC upgrades and simulation game mechanics.
+*   **💻 Shop Management App:** A robust transaction system built using **VB.NET** and **MySQL**.
+*   **🤖 AI Exploration:** Crafting high-detail prompts for realistic and aesthetic AI image generation.
+*   **🌐 Company Profile Website:** Currently designing and developing a responsive website for *Kei Coffee Shop*.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Kei GitHub stats](https://github-readme-stats.vercel.app/api?Kei=Z-dev-collab&show_icons=true&theme=radical)
-![Top Stats](https://github-readme-stats.vercel.app/api/top-langs/?Kei=Z-dev-collab&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Z-dev-collab&show_icons=true&theme=radical&rank_icon=github" alt="Kei GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-dev-collab&layout=compact&theme=radical" alt="Top Stats" width="48%" />
+</p>
 
 ---
 
 ### 🌏 Beyond Coding
 
-- 🎮 **Gaming:** Mobile Legends & Roblox.
-- 📱 **Tech Savvy:** Keeping an eye on the latest smartphone and PC hardware trends.
-- 🇮🇩 **Proudly Indonesian:** Interested in regional cultures and Indonesian geography.
-- 📍 **Based in:** Kepulaun Riau, Batam, Indonesia.(SMK IBNU SINA BATAM)
+*   🎮 **Gaming:** Active player in *Mobile Legends* and *Roblox*.
+*   📱 **Tech Savvy:** Hardware enthusiast, keeping an eye on PC upgrades and smartphone trends.
+*   🇮🇩 **Location:** Based in Batam, Kepulauan Riau, Indonesia.
 
 ---
 
 ### 📫 Connect with me
 
-- **GitHub:** [github.com/Z-dev-collab](https://github.com/Z-dev-collab)
-- **Instagram:** [@zhryadii](https://www.instagram.com/zhryadii/)
+<p align="left">
+  <a href="https://instagram.com/zhryadii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Z-dev-collab" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
