@@ -57,9 +57,10 @@ I'm a passionate developer focused on building functional applications, managing
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Z-dev-collab&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Kei GitHub stats" width="400" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-dev-collab&layout=compact&theme=radical" alt="Top Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.com/api?username=Z-dev-collab&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Kei GitHub Stats" width="400" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=Z-dev-collab&layout=compact&theme=radical&langs_count=7" alt="Kei Top Languages" width="400" />
 </p>
 
 ---
